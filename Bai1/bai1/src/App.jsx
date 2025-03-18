@@ -1,12 +1,11 @@
-
+import { useState } from 'react'
 import './App.css'
-import Header from './Components/header'
+import Bai_1 from './components/Bai_1'
 
 function App() {
-
   return (
     <>
-      <Header/>
+    <Bai_1/>
     </>
   )
 }
